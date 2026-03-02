@@ -55,5 +55,9 @@
     "complexity": "minimal",
     "style": "abstract",
     "detail": "loose"
-  }
+  },
+  "repository": "nordic-winter",
+  "owner": "morgtom99",
+  "branch": "main",
+  "basePath": ""
 }
