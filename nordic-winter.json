@@ -1,0 +1,63 @@
+{
+  "id": "theme-nordic-winter",
+  "title": "Nordic Winter",
+  "description": "A cool and serene palette reflecting the quiet beauty of a snowy landscape.",
+  "owner": "morgtom99",
+  "repository": "nordic-winter",
+  "seedPalette": [
+    "#306060",
+    "#5F9EA0",
+    "#4682B4",
+    "#708090",
+    "#778899",
+    "#89a1c9",
+    "#6161d6"
+  ],
+  "colorConcepts": [
+    [
+      "ice",
+      "frost",
+      "crystalline"
+    ],
+    [
+      "snow",
+      "drift",
+      "powder"
+    ],
+    [
+      "pine",
+      "needle",
+      "frozen"
+    ],
+    [
+      "fjord",
+      "water",
+      "cold"
+    ],
+    [
+      "mist",
+      "haze",
+      "winter"
+    ],
+    [
+      "sky",
+      "aurora",
+      "night"
+    ],
+    [
+      "stone",
+      "mountain",
+      "peak"
+    ]
+  ],
+  "primary": "180 33% 28%",
+  "background": "210 20% 10%",
+  "accent": "210 20% 20%",
+  "imageStyle": {
+    "complexity": "minimal",
+    "style": "photographic",
+    "detail": "detailed",
+    "dimension": "3d",
+    "lighting": "soft"
+  }
+}
