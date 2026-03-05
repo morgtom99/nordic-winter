@@ -58,6 +58,16 @@
     "style": "photographic",
     "detail": "detailed",
     "dimension": "3d",
-    "lighting": "soft"
-  }
+    "lighting": "soft",
+    "texture": "none"
+  },
+  "colorDescriptions": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
