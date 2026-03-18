@@ -16,38 +16,38 @@
   "colorConcepts": [
     [
       "ice",
-      "frost",
-      "crystalline"
+      "frozen",
+      "lake"
     ],
     [
-      "snow",
-      "drift",
-      "powder"
-    ],
-    [
-      "pine",
-      "needle",
-      "frozen"
-    ],
-    [
+      "glacier",
       "fjord",
-      "water",
-      "cold"
-    ],
-    [
-      "mist",
-      "haze",
-      "winter"
+      "water"
     ],
     [
       "sky",
-      "aurora",
-      "night"
+      "cold",
+      "air"
     ],
     [
+      "slate",
       "stone",
-      "mountain",
-      "peak"
+      "rock"
+    ],
+    [
+      "fog",
+      "mist",
+      "cloud"
+    ],
+    [
+      "aurora",
+      "atmosphere",
+      "cloud"
+    ],
+    [
+      "dusk",
+      "twilight",
+      "night"
     ]
   ],
   "primary": "180 33% 28%",
