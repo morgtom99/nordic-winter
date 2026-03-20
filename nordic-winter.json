@@ -16,38 +16,38 @@
   "colorConcepts": [
     [
       "ice",
-      "frozen",
-      "lake"
+      "frost",
+      "crystalline"
     ],
     [
-      "glacier",
+      "snow",
+      "drift",
+      "powder"
+    ],
+    [
+      "pine",
+      "needle",
+      "frozen"
+    ],
+    [
       "fjord",
-      "water"
+      "water",
+      "cold"
+    ],
+    [
+      "mist",
+      "haze",
+      "winter"
     ],
     [
       "sky",
-      "cold",
-      "air"
-    ],
-    [
-      "slate",
-      "stone",
-      "rock"
-    ],
-    [
-      "fog",
-      "mist",
-      "cloud"
-    ],
-    [
       "aurora",
-      "atmosphere",
-      "cloud"
+      "night"
     ],
     [
-      "dusk",
-      "twilight",
-      "night"
+      "stone",
+      "mountain",
+      "peak"
     ]
   ],
   "primary": "180 33% 28%",
@@ -58,16 +58,43 @@
     "style": "photographic",
     "detail": "detailed",
     "dimension": "3d",
-    "lighting": "soft",
-    "texture": "none"
+    "lighting": "natural"
   },
-  "colorDescriptions": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+  "conceptPrompts": [
+    [
+      "[Subject: ICE]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #306060.",
+      "[Subject: FROST]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #306060.",
+      "[Subject: CRYSTALLINE]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #306060."
+    ],
+    [
+      "[Subject: SNOW]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #5F9EA0.",
+      "[Subject: DRIFT]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #5F9EA0.",
+      "[Subject: POWDER]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #5F9EA0."
+    ],
+    [
+      "[Subject: PINE]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #4682B4.",
+      "[Subject: NEEDLE]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #4682B4.",
+      "[Subject: FROZEN]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #4682B4."
+    ],
+    [
+      "[Subject: FJORD]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #708090.",
+      "[Subject: WATER]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #708090.",
+      "[Subject: COLD]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #708090."
+    ],
+    [
+      "[Subject: MIST]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #778899.",
+      "[Subject: HAZE]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #778899.",
+      "[Subject: WINTER]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #778899."
+    ],
+    [
+      "[Subject: SKY]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #89a1c9.",
+      "[Subject: AURORA]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #89a1c9.",
+      "[Subject: NIGHT]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #89a1c9."
+    ],
+    [
+      "[Subject: STONE]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #6161d6.",
+      "[Subject: MOUNTAIN]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #6161d6.",
+      "[Subject: PEAK]. A high-fidelity photographic aesthetic. Theme: Nordic Winter. Aesthetic Context: A cool and serene palette reflecting the quiet beauty of a snowy landscape.. Parameters: 3d dimension, natural lighting, undefined texture, minimal complexity, detailed level of detail. Primary color: #6161d6."
+    ]
   ]
 }
